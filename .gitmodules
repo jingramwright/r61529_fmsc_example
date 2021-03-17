@@ -1,0 +1,3 @@
+[submodule "lib/GxTFT"]
+	path = lib/GxTFT
+	url = https://github.com/jingramwright/GxTFT.git
